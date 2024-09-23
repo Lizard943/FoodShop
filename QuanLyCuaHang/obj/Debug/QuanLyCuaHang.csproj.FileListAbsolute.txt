@@ -1,0 +1,140 @@
+D:\Laptrinhnet\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.exe.config
+D:\Laptrinhnet\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.exe
+D:\Laptrinhnet\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.pdb
+D:\Laptrinhnet\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.AssemblyReference.cache
+D:\Laptrinhnet\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.MatHang.resources
+D:\Laptrinhnet\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Properties.Resources.resources
+D:\Laptrinhnet\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.GenerateResource.cache
+D:\Laptrinhnet\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.CoreCompileInputs.cache
+D:\Laptrinhnet\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.exe
+D:\Laptrinhnet\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.pdb
+D:\Laptrinhnet\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Form1.resources
+D:\Laptrinhnet\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.BanHang.resources
+D:\Laptrinhnet\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Laptrinhnet\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Laptrinhnet\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Laptrinhnet\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Laptrinhnet\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Laptrinhnet\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Laptrinhnet\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Laptrinhnet\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Laptrinhnet\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Laptrinhnet\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\EnvDTE.dll
+D:\Laptrinhnet\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Laptrinhnet\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\stdole.dll
+D:\Laptrinhnet\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Laptrinhnet\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Laptrinhnet\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Laptrinhnet\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Laptrinhnet\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Laptrinhnet\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Laptrinhnet\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Laptrinhnet\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Laptrinhnet\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Laptrinhnet\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Laptrinhnet\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Laptrinhnet\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Laptrinhnet\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Laptrinhnet\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Laptrinhnet\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Laptrinhnet\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Laptrinhnet\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Laptrinhnet\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Laptrinhnet\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Laptrinhnet\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Laptrinhnet\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Laptrinhnet\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Laptrinhnet\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Laptrinhnet\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Laptrinhnet\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Laptrinhnet\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Laptrinhnet\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Laptrinhnet\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Laptrinhnet\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Laptrinhnet\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Laptrinhnet\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Laptrinhnet\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Laptrinhnet\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Laptrinhnet\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Laptrinhnet\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Laptrinhnet\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Laptrinhnet\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Laptrinhnet\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Laptrinhnet\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Laptrinhnet\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Laptrinhnet\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.CopyComplete
+D:\Laptrinhnet\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.BaoCao.resources
+D:\Laptrinhnet\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.TraCuuHoaDon.resources
+D:\Laptrinhnet\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Login.resources
+D:\Laptrinhnet\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.ThongKeDoanhSo.resources
+D:\Laptrinhnet\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.InThongKe.resources
+D:\Đồ án\Sản phẩm Winform\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Đồ án\Sản phẩm Winform\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Đồ án\Sản phẩm Winform\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Đồ án\Sản phẩm Winform\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Đồ án\Sản phẩm Winform\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.exe.config
+D:\Đồ án\Sản phẩm Winform\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.exe
+D:\Đồ án\Sản phẩm Winform\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.pdb
+D:\Đồ án\Sản phẩm Winform\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Đồ án\Sản phẩm Winform\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Đồ án\Sản phẩm Winform\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Đồ án\Sản phẩm Winform\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Đồ án\Sản phẩm Winform\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Đồ án\Sản phẩm Winform\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Đồ án\Sản phẩm Winform\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\EnvDTE.dll
+D:\Đồ án\Sản phẩm Winform\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\stdole.dll
+D:\Đồ án\Sản phẩm Winform\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án\Sản phẩm Winform\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án\Sản phẩm Winform\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án\Sản phẩm Winform\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án\Sản phẩm Winform\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án\Sản phẩm Winform\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án\Sản phẩm Winform\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án\Sản phẩm Winform\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án\Sản phẩm Winform\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án\Sản phẩm Winform\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án\Sản phẩm Winform\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án\Sản phẩm Winform\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án\Sản phẩm Winform\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án\Sản phẩm Winform\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án\Sản phẩm Winform\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án\Sản phẩm Winform\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án\Sản phẩm Winform\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án\Sản phẩm Winform\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án\Sản phẩm Winform\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án\Sản phẩm Winform\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án\Sản phẩm Winform\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án\Sản phẩm Winform\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án\Sản phẩm Winform\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án\Sản phẩm Winform\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án\Sản phẩm Winform\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án\Sản phẩm Winform\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án\Sản phẩm Winform\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án\Sản phẩm Winform\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án\Sản phẩm Winform\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án\Sản phẩm Winform\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án\Sản phẩm Winform\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án\Sản phẩm Winform\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án\Sản phẩm Winform\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án\Sản phẩm Winform\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án\Sản phẩm Winform\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án\Sản phẩm Winform\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án\Sản phẩm Winform\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án\Sản phẩm Winform\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án\Sản phẩm Winform\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án\Sản phẩm Winform\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án\Sản phẩm Winform\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.AssemblyReference.cache
+D:\Đồ án\Sản phẩm Winform\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.BanHang.resources
+D:\Đồ án\Sản phẩm Winform\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.BaoCao.resources
+D:\Đồ án\Sản phẩm Winform\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Form1.resources
+D:\Đồ án\Sản phẩm Winform\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.InThongKe.resources
+D:\Đồ án\Sản phẩm Winform\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Login.resources
+D:\Đồ án\Sản phẩm Winform\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.MatHang.resources
+D:\Đồ án\Sản phẩm Winform\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Properties.Resources.resources
+D:\Đồ án\Sản phẩm Winform\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.ThongKeDoanhSo.resources
+D:\Đồ án\Sản phẩm Winform\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.TraCuuHoaDon.resources
+D:\Đồ án\Sản phẩm Winform\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.GenerateResource.cache
+D:\Đồ án\Sản phẩm Winform\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.CoreCompileInputs.cache
+D:\Đồ án\Sản phẩm Winform\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.CopyComplete
+D:\Đồ án\Sản phẩm Winform\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.exe
+D:\Đồ án\Sản phẩm Winform\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.pdb
